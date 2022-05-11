@@ -1,6 +1,7 @@
 package ac.id.del.goaspirate
 
 import ac.id.del.goaspirate.fragments.AccountFragment
+import ac.id.del.goaspirate.fragments.AspirasiFragment
 import ac.id.del.goaspirate.fragments.HomeFragment
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -12,7 +13,9 @@ class HomeActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
         val homeFragment = HomeFragment()
+        val aspirasiFragment = AspirasiFragment()
         val accountFragment = AccountFragment()
+
         val navigation = findViewById<BottomNavigationView>(R.id.buttom_navigation)
 
 
@@ -21,7 +24,9 @@ class HomeActivity : AppCompatActivity() {
         navigation.setOnItemSelectedListener {
             when (it.itemId){
                 R.id.itemHome -> makeCurrentFragment(homeFragment)
+                R.id.itemAspirasi -> makeCurrentFragment(aspirasiFragment)
                 R.id.itemAccount -> makeCurrentFragment(accountFragment)
+
             }
             true
         }
