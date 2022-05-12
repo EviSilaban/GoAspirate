@@ -4,11 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/PAM/GoAspirate/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.106" />
+        <entry key="..\:/PAM/GoAspirate/app/src/main/res/drawable/ic_account.xml" value="0.1715" />
+        <entry key="..\:/PAM/GoAspirate/app/src/main/res/drawable/ic_home.xml" value="0.106" />
         <entry key="..\:/PAM/GoAspirate/app/src/main/res/drawable/ic_launcher_background.xml" value="0.106" />
         <entry key="..\:/PAM/GoAspirate/app/src/main/res/layout/activity_home.xml" value="0.19947916666666668" />
         <entry key="..\:/PAM/GoAspirate/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
         <entry key="..\:/PAM/GoAspirate/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/PAM/GoAspirate/app/src/main/res/layout/fragment_account.xml" value="0.22" />
         <entry key="..\:/PAM/GoAspirate/app/src/main/res/layout/fragment_home.xml" value="0.17798913043478262" />
+        <entry key="..\:/PAM/GoAspirate/app/src/main/res/menu/akun.xml" value="0.19947916666666668" />
+        <entry key="..\:/PAM/GoAspirate/app/src/main/res/menu/buttom_navigation_menu.xml" value="0.19947916666666668" />
       </map>
     </option>
   </component>
