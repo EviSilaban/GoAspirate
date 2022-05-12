@@ -7,7 +7,12 @@
         android:icon="@drawable/ic_home"
         android:title="Home" />
     <item
+    android:id="@+id/itemAspirasi"
+    android:icon="@drawable/ic_aspirasi"
+    android:title="Aspirasi" />
+    <item
         android:id="@+id/itemAccount"
         android:icon="@drawable/ic_account"
         android:title="Account" />
+
 </menu>
