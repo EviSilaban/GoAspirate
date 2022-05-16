@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "26070946747",
-    "project_id": "goaspirate",
-    "storage_bucket": "goaspirate.appspot.com"
+    "project_number": "675381315646",
+    "project_id": "goaspirate-9a2f5",
+    "storage_bucket": "goaspirate-9a2f5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:26070946747:android:b14602318f6913f6d96a9e",
+        "mobilesdk_app_id": "1:675381315646:android:deabe79ce6b086bb1ba96f",
         "android_client_info": {
           "package_name": "ac.id.del.goaspirate"
         }
       },
       "oauth_client": [
         {
-          "client_id": "26070946747-gljppn1v2q66oojjdol6g6agjn2c195f.apps.googleusercontent.com",
+          "client_id": "675381315646-n7sf7lksq7cfse4f94n3hs6l8kk8b520.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBM_SVflA4-EWE_7GCtbzspkfW06UYdBgg"
+          "current_key": "AIzaSyCcVGFeKCkdhhQQZPbmv0tKz95XG1dxvEU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "26070946747-gljppn1v2q66oojjdol6g6agjn2c195f.apps.googleusercontent.com",
+              "client_id": "675381315646-n7sf7lksq7cfse4f94n3hs6l8kk8b520.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
